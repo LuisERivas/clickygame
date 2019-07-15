@@ -1,0 +1,10 @@
+.cardSize{
+    max-width: 200px;
+    max-height: 200px;
+    border-style: solid;
+    border-width: 3px;
+    margin:10px;
+}
+.imageSeparation{
+    padding:10px;
+}
