@@ -1,7 +1,7 @@
 import React from 'react'
 import './style.css'
 
-function ImageCard (props) {
+function imageCard (props) {
   return (
     <div className='card float-left'>
       <div className='img-container '>
@@ -11,4 +11,4 @@ function ImageCard (props) {
   )
 }
 
-export default ImageCard
+export default imageCard
